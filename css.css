@@ -1,0 +1,16 @@
+.num{
+    background-color: rgb(91, 217, 255);
+    color:red;
+    width: 700px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 80px;
+}
+.rules{
+    color:rgb(221, 255, 0);
+    margin-left: 150px;
+    font-size: 20px;
+}
+.check{
+    margin: 100px;
+}
